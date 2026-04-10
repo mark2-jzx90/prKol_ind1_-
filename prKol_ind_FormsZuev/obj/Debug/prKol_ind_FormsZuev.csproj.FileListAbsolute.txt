@@ -1,0 +1,10 @@
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\bin\Debug\prKol_ind_FormsZuev.exe.config
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\bin\Debug\prKol_ind_FormsZuev.exe
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\bin\Debug\prKol_ind_FormsZuev.pdb
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\obj\Debug\prKol_ind_FormsZuev.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\obj\Debug\prKol_ind_FormsZuev.Form1.resources
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\obj\Debug\prKol_ind_FormsZuev.Properties.Resources.resources
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\obj\Debug\prKol_ind_FormsZuev.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\obj\Debug\prKol_ind_FormsZuev.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\obj\Debug\prKol_ind_FormsZuev.exe
+C:\Users\305-7\Desktop\Зуев Пр-21\prKol_ind_FormsZuev\obj\Debug\prKol_ind_FormsZuev.pdb
